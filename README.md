@@ -6,7 +6,7 @@ pip install pygame
 ## How to run
 python run.py
 
-##TO DO
+## TO DO
 * More enemies at once
 * Levels
 * Bonuses
