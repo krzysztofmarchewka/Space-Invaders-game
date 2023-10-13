@@ -1,4 +1,4 @@
-# Space-Invaders-game not finished
+# Space-Invaders-game
 
 ## Game uses only pygame lib
 pip install pygame
